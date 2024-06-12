@@ -1,0 +1,15 @@
+@Kopernicus:HAS[@TPRSettings:HAS[#16K_Kerbin[True]]]:FOR[Q2_TPR]
+{
+
+    @Body:HAS[#identifier[Squad/Kerbin]]
+	{
+       @ScaledVersion
+		{
+			@Material
+			{
+				@texture = TPR/PluginData/KerbinColorScaled_16K.png
+				@normals = TPR/PluginData/Kerbin_Normal_16K.png
+			}
+		}
+    }
+}
