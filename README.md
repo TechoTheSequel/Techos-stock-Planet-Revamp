@@ -7,21 +7,33 @@ License: CC BY-NC-SA 4.0
 
 **Dependencies:**
 
-Kopernicus
+**Kopernicus**
  			
 Download: https://github.com/Kopernicus/Kopernicus/releases
 
----
+-
 
-Kopernicus Expansion 
+**Kopernicus Expansion** 
 		
 Download: https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
 
----
+-
 
-Niako's Kopernicus Utilities 
+**Niako's Kopernicus Utilities** 
 	
 Download: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
+
+---
+
+**Compatability:**
+
+Parallax
+
+Scatterer
+
+Blackracks Stock Volumetric Clouds
+
+And any other visual packs that do not edit stock planet textures.
 
 ---
 
