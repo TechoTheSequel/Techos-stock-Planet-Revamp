@@ -1,0 +1,70 @@
+@Parallax:NEEDS[Parallax]:LAST[Parallax] //thank you BallisticFox
+{
+    @Body:HAS[#name[Duna]]
+    {
+        @Textures
+        {
+            @_InfluenceMap = Parallax_StockTextures/Kerbin/PluginData/influence.dds
+            @_SteepPower = 2
+			@_SteepContrast = 1
+        }
+    }
+    @Body:HAS[#name[Mun]]
+    {
+        @Textures
+        {
+            @_InfluenceMap = Parallax_StockTextures/Kerbin/PluginData/influence.dds
+            @_SteepPower = 2
+			@_SteepContrast = 1
+        }
+    }
+    @Body:HAS[#name[Kerbin]]
+    {
+        @Textures
+        {
+            @_SteepPower = 2
+			@_SteepContrast = 1
+        }
+    }
+    @Body:HAS[#name[Laythe]]
+    {
+        @Textures
+		{
+			@_SurfaceTextureScale = 0.6
+
+			@_SurfaceTexture = Parallax_StockTextures/Duna/PluginData/mid00.dds
+			@_SurfaceTextureMid = Parallax_StockTextures/Duna/PluginData/mid00.dds
+			@_SurfaceTextureHigh = Parallax_StockTextures/Duna/PluginData/mid00.dds
+			//@_SteepTex = Parallax_StockTextures/Laythe/PluginData/steep00.dds
+
+			@_BumpMap = Parallax_StockTextures/Duna/PluginData/mid01.dds
+			@_BumpMapMid = Parallax_StockTextures/Duna/PluginData/mid01.dds
+			@_BumpMapHigh = Parallax_StockTextures/Duna/PluginData/mid01.dds
+			//@_BumpMapSteep = Parallax_StockTextures/Duna/PluginData/steep01.dds
+
+			_DispTex = Parallax_StockTextures/Duna/PluginData/displacement.dds
+			@_InfluenceMap = Parallax_StockTextures/Kerbin/PluginData/influence.dds
+
+			@_SteepPower = 5
+			@_SteepContrast = 4
+			@_SteepMidpoint = 0.67
+			@_displacement_scale = 0.035
+			@_displacement_offset = 0
+
+			@_Metallic = 3
+			@_MetallicTint = 1,1,1
+			@_Gloss = 25
+			@_NormalSpecularInfluence = 1
+			@_Hapke = 0.56
+			@_EmissionColor = 0,0,0
+
+			@_FresnelColor = 0.1,0.1,0.1
+			@_FresnelPower = 3
+
+			@_LowStart = -500
+			@_LowEnd = -499
+			@_HighStart = 25000
+			@_HighEnd = 27000
+		}
+    }
+}

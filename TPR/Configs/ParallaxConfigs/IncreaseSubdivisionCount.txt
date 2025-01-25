@@ -1,0 +1,248 @@
+@Kopernicus:NEEDS[Parallax&ParallaxStock]:AFTER[Q_TPR] //for some reason i have to repeat this, im prolly stupid and its an easy fix idk
+{	
+	@Body[Kerbin]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Mun]
+	{
+		%PQS
+		{
+			maxLevel = 10
+			%PhysicsMaterial
+			{
+				bounceCombine = Average
+				frictionCombine = Average
+				bounciness = 0
+				staticFriction = 0.6
+				dynamicFriction = 0.6
+			}
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 24
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 32
+					order = 999999
+
+				}
+				//QuadEnhanceCoast
+				//{
+				//	coastLessThan = 1
+				//	oceanFactor = 2
+				//	order = 9999
+				//	enabled = True
+				//	name = _CoastlineLOD
+				//}
+			}
+		}
+	}
+	@Body[Minmus]
+	{
+		%PQS
+		{
+			maxLevel = 9
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 24
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 32
+					order = 999999
+
+				}
+			}
+		}
+	}
+	@Body[Duna]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Ike]
+	{
+		maxLevel = 10
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 24
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 64
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Moho]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Eve]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Gilly]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Dres]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Laythe]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Vall]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Tylo]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Bop]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+	@Body[Pol]
+	{
+		%PQS
+		{
+			%Mods
+			{
+				Parallax
+				{
+					subdivisionLevel = 32
+					subdivisionRadius = 150
+					//advancedSubdivisionLevel = 40
+					order = 999999
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+@Kopernicus
+{
+    @Body[Kerbin]
+    {
+        @PQS
+        {
+            materialType = AtmosphericTriplanarZoomRotationTextureArray
+        }
+    }
+}

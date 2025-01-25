@@ -1,0 +1,179 @@
+			Biomes
+			{
+				Biome //-2
+				{
+					name = InlandWater
+					displayName = Inland Waters
+					color = #0affad
+					value = 1
+				}
+				Biome //-1
+				{
+					name = ColdWater
+					displayName = Cold Waters
+					color = #181428
+					value = 1
+				}
+				Biome //0
+				{
+					name = Water
+					displayName = Waters
+					color = #050948
+					value = 1
+				}
+				Biome //1
+				{
+					name = Grasslands
+					displayName = Grasslands
+					color = #51842e
+					value = 1
+				}
+				Biome //2
+				{
+					name = Forests
+					displayName = Forests
+					color = #16a70c
+					value = 1
+				}
+				Biome //3
+				{
+					name = Shores
+					displayName = Shores
+					color = #cdc0a3
+					value = 1
+				}
+				Biome //4
+				{
+					name = Mountains
+					displayName = Mountains
+					color = #5a5a5a
+					value = 1
+				}
+				Biome //5
+				{
+					name = Deserts
+					displayName = Deserts
+					color = #966c6b
+					value = 1
+				}
+				Biome //6
+				{
+					name = Badlands
+					displayName = Badlands
+					color = #392525
+					value = 1
+				}
+				Biome //7
+				{
+					name = Tundra
+					displayName = Tundra
+					color = #a8a8a7
+					value = 1
+				}
+				Biome //8
+				{
+					name = PineForest
+					displayName = Pine Forests
+					color = #2a3f20
+					value = 1
+				}
+				Biome //9
+				{
+					name = NorthernIce
+					displayName = Northern Ice
+					color = #a3bbcd
+					value = 1
+				}
+				Biome //10
+				{
+					name = SouthernIce
+					displayName = Southern Ice
+					color = #5f7280
+					value = 1
+				}
+				Biome //11
+				{
+					name = Peaks
+					displayName = Peaks
+					color = #ffffff
+					value = 1
+				}
+				Biome //12
+				{
+					name = Savannah
+					displayName = Savannahs
+					color = #796734
+					value = 1
+				}
+				Biome //13
+				{
+					name = Wetlands
+					displayName = Wetlands
+					color = #bdff59
+					value = 1
+				}
+				Biome //14
+				{
+					name = FelipeCrater
+					displayName = Felipe Crater
+					color = #0c33a7
+					value = 1
+				}
+				Biome //14-A
+				{
+					name = FelipeIslands
+					displayName = Felipe Islands
+					color = #b66dff
+					value = 1
+				}
+				Biome //15
+				{
+					name = BevinsCrater
+					displayName = Bevins Crater
+					color = #ffae28
+					value = 1
+				}
+				Biome //16
+				{
+					name = NovaCrater
+					displayName = Nova Crater
+					color = #ff2a36
+					value = 1
+				}
+				Biome //17
+				{
+					name = ColdShores
+					displayName = Cold Shores
+					color = #ff00f2
+					value = 1
+				}
+			}
+		}
+Inland Waters
+Cold Waters
+Water
+Grasslands
+Forests
+Shores
+Mountains
+Deserts
+Badlands
+Tundra
+Pine Forests
+Northern Ice
+Southern Ice
+Peaks
+Savannahs
+Wetlands
+Felipe Crater
+Felipe Islands
+Bevins Crater
+Nova Crater
+Cold Shores
+
+
+
+
+
+
+
