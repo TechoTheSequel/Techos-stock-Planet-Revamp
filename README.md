@@ -27,7 +27,7 @@ Download: https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMa
 
 **Compatability:**
 
-Parallax
+~~Parallax~~ (soon)
 
 Scatterer
 
